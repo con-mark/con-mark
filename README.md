@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="60"/>
 
 **Hello There**  
-**Thanks for Visiting**
+**Nice To Meet You**
 </div>
 <br/>
 <br/>
@@ -36,5 +36,7 @@ const developer = {
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&random=false&width=435&lines=Thanks+for+visiting+my+profile)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&center=true&multiline=true&repeat=false&random=false&width=435&height=55&lines=Thanks+for+visiting+my+profile;Feel+free+to+get+in+touch)](https://git.io/typing-svg)
+</div>
